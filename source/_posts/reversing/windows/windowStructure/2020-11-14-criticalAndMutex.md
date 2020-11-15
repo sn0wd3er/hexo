@@ -2,7 +2,6 @@
 title: 임계 영역과 뮤텍스
 date: 2020-11-14 16:53:07
 Category:
-- Reversing
 - Windows
 tags:
 - Critical Section

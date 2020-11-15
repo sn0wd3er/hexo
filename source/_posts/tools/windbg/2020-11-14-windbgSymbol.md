@@ -2,8 +2,7 @@
 title: Windbg 심볼 설정
 date: 2020-11-14 16:13:32
 category:
-- Reversing
-- Windows
+- Tools
 tags:
 - Windbg
 ---

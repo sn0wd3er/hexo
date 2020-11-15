@@ -2,10 +2,10 @@
 title: 스레드와 동기화 개념
 date: 2020-11-14 14:14:11
 category: 
-- Reversing
 - Windows
 tags:
-- Reversing
+- Thread
+- Synchronization
 ---
 
 ## Thread
