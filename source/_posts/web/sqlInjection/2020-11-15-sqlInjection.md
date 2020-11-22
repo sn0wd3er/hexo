@@ -1,5 +1,5 @@
 ---
-title: SQL Injection 기법
+title: SQL Injection 
 date: 2020-11-15 19:49:08
 tags:
 - SQL Injection

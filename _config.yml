@@ -106,3 +106,9 @@ deploy:
   type: git
   repo: https://github.com/sn0wd3er/sn0wd3er.github.io.git
   branch: master
+
+# Robots.txt
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /
